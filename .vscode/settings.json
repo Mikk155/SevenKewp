@@ -1,0 +1,5 @@
+{
+    "remove-tabs-on-save.ignoreFileExtensions": [
+        "*"
+    ]
+}
